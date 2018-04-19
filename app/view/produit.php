@@ -3,7 +3,7 @@
 
   <body>
 	
-
+	<script src="public/js/produit.js"></script>
     <div class="container">
 		<div class="row">
 		<!-- PREMIERE LIGNE -->

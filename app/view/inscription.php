@@ -4,8 +4,10 @@
 
   <body>
 
+	<script src="public/js/check_func.js"></script>
+	<script src="public/js/check_main.js"></script>
+	<script src="public/js/select_date.js"></script>
 	
-
 	<div class="container">
 
 		<h2>Création d'un compte</h2>

@@ -4,7 +4,7 @@
 
   <body>
 
-
+	<script src="public/js/panier.js"></script>
     <div class="container">
 
 		<div class="row panier">
